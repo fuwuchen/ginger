@@ -1,0 +1,3 @@
+SQLALCHEMY_DATABASE_URI = \
+    'mysql+pymysql://root:root@localhost:3306/ginger'
+SECRET_KEY = 'LJK34H5SDOIFL3JK45HDFSO34KJBSDF8'
